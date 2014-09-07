@@ -1,0 +1,9 @@
+C:\Users\Charles\Dropbox\Development\Visual Express 2013\Projects\ScreenShottr Desktop Uploader\ScreenShottr Desktop Uploader\bin\Debug\ScreenShottr Desktop Uploader.exe.config
+C:\Users\Charles\Dropbox\Development\Visual Express 2013\Projects\ScreenShottr Desktop Uploader\ScreenShottr Desktop Uploader\obj\Debug\ScreenShottr Desktop Uploader.csprojResolveAssemblyReference.cache
+C:\Users\Charles\Dropbox\Development\Visual Express 2013\Projects\ScreenShottr Desktop Uploader\ScreenShottr Desktop Uploader\obj\Debug\ScreenShottr_Desktop_Uploader.Form1.resources
+C:\Users\Charles\Dropbox\Development\Visual Express 2013\Projects\ScreenShottr Desktop Uploader\ScreenShottr Desktop Uploader\obj\Debug\ScreenShottr_Desktop_Uploader.Properties.Resources.resources
+C:\Users\Charles\Dropbox\Development\Visual Express 2013\Projects\ScreenShottr Desktop Uploader\ScreenShottr Desktop Uploader\obj\Debug\ScreenShottr Desktop Uploader.csproj.GenerateResource.Cache
+C:\Users\Charles\Dropbox\Development\Visual Express 2013\Projects\ScreenShottr Desktop Uploader\ScreenShottr Desktop Uploader\bin\Debug\ScreenShottr Desktop Uploader.exe
+C:\Users\Charles\Dropbox\Development\Visual Express 2013\Projects\ScreenShottr Desktop Uploader\ScreenShottr Desktop Uploader\bin\Debug\ScreenShottr Desktop Uploader.pdb
+C:\Users\Charles\Dropbox\Development\Visual Express 2013\Projects\ScreenShottr Desktop Uploader\ScreenShottr Desktop Uploader\obj\Debug\ScreenShottr Desktop Uploader.exe
+C:\Users\Charles\Dropbox\Development\Visual Express 2013\Projects\ScreenShottr Desktop Uploader\ScreenShottr Desktop Uploader\obj\Debug\ScreenShottr Desktop Uploader.pdb
